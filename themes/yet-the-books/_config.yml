@@ -19,7 +19,7 @@ footer_link:
   使用Joplin发布: https://hyruo.com/article/joplin-publish-to-hexo-blog/
 
 github:
-  repo: nexmoe/books # nexmoe/books
+  repo: h2dcc/books.github.io # h2dcc/books.github.io
   edit: true # true,false
   history: true # true,false
 
